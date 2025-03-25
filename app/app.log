@@ -1,0 +1,1018 @@
+Mar 25, 2025 1:30:17 PM workshop06_code.SQLiteConnectionManager <clinit>
+INFO: Logging configured successfully in SQLiteConnectionManager.
+Mar 25, 2025 1:30:17 PM workshop06_code.SQLiteConnectionManager createNewDatabase
+INFO: Database driver: SQLite JDBC
+Mar 25, 2025 1:30:17 PM workshop06_code.SQLiteConnectionManager createNewDatabase
+INFO: New database created at jdbc:sqlite:words.db
+Mar 25, 2025 1:30:17 PM workshop06_code.SQLiteConnectionManager createWordleTables
+INFO: Dropped wordlist table if it existed.
+Mar 25, 2025 1:30:17 PM workshop06_code.SQLiteConnectionManager createWordleTables
+INFO: Created wordlist table.
+Mar 25, 2025 1:30:17 PM workshop06_code.SQLiteConnectionManager createWordleTables
+INFO: Dropped validWords table if it existed.
+Mar 25, 2025 1:30:17 PM workshop06_code.SQLiteConnectionManager createWordleTables
+INFO: Created validWords table.
+Mar 25, 2025 1:30:17 PM workshop06_code.SQLiteConnectionManager createWordleTables
+INFO: Wordle tables created successfully.
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: able
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: acid
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: aged
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: also
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: area
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: army
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: away
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: baby
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: back
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: ball
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: band
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: bank
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: base
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: bath
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: bear
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: beat
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: been
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: beer
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: bell
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: belt
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: best
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: bill
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: bird
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: blow
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: blue
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: boat
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: body
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: bomb
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: bond
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: bone
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: book
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: boom
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: born
+Mar 25, 2025 1:30:17 PM workshop06_code.App main
+INFO: Valid word loaded: boss
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: both
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: bowl
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: bulk
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: burn
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: bush
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: busy
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: call
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: calm
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: came
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: camp
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: card
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: care
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: case
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: cash
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: cast
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: cell
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: chat
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: chip
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: city
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: club
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: coal
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: coat
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: code
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: cold
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: come
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: cook
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: cool
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: cope
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: copy
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: CORE
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: cost
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: crew
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: crop
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: dark
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: data
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: date
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: dawn
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: days
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: dead
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: deal
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: dean
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: dear
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: debt
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: deep
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: deny
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: desk
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: dial
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: dick
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: diet
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: disc
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: disk
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: does
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: done
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: door
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: dose
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: down
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: draw
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: drew
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: drop
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: drug
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: dual
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: duke
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: dust
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: duty
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: each
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: earn
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: ease
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: east
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: easy
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: edge
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: else
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: even
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: ever
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: evil
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: exit
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: face
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fact
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fail
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fair
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fall
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: farm
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fast
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fate
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fear
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: feed
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: feel
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: feet
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fell
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: felt
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: file
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fill
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: film
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: find
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fine
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fire
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: firm
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fish
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: five
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: flat
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: flow
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: food
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: foot
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: ford
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: form
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fort
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: four
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: free
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: from
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fuel
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: full
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: fund
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: gain
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: game
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: gate
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: gave
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: gear
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: gene
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: gift
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: girl
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: give
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: glad
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: goal
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: goes
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: gold
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: Golf
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: gone
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: good
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: gray
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: grew
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: grey
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: grow
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: gulf
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hair
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: half
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hall
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hand
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hang
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hard
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: harm
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hate
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: have
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: head
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hear
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: heat
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: held
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hell
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: help
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: here
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hero
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: high
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hill
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hire
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hold
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hole
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: holy
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: home
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hope
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: host
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hour
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: huge
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hung
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hunt
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: hurt
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: idea
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: inch
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: into
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: iron
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: item
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: jack
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: jane
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: jean
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: john
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: join
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: jump
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: jury
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: just
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: keen
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: keep
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: kent
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: kept
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: kick
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: kill
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: kind
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: king
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: knee
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: knew
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: know
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: lack
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: lady
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: laid
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: lake
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: land
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: lane
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: last
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: late
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: lead
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: left
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: less
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: life
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: lift
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: like
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: line
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: link
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: list
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: live
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: load
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: loan
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: lock
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: logo
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: long
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: look
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: lord
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: lose
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: loss
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: lost
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: love
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: luck
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: made
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mail
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: main
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: make
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: male
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: many
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: Mark
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mass
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: matt
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: meal
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mean
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: meat
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: meet
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: menu
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mere
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mike
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mile
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: milk
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mill
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mind
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mine
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: miss
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mode
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: mood
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: moon
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: more
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: most
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: move
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: much
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: must
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: name
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: navy
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: near
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: neck
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: need
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: news
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: next
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: nice
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: nick
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: nine
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: none
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: nose
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: note
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: okay
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: once
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: only
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: onto
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: open
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: oral
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: over
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pace
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pack
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: page
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: paid
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pain
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pair
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: palm
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: park
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: part
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pass
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: past
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: path
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: peak
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pick
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pink
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pipe
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: plan
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: play
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: plot
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: plug
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: plus
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: poll
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pool
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: poor
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: port
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: post
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pull
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: pure
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: push
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: race
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: rail
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: rain
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: rank
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: rare
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: rate
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: read
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: real
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: rear
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: rely
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: rent
+Mar 25, 2025 1:30:18 PM workshop06_code.App main
+INFO: Valid word loaded: rest
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: rice
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: rich
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: ride
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: ring
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: rise
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: risk
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: road
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: rock
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: role
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: roll
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: roof
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: room
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: root
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: rose
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: rule
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: rush
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: ruth
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: safe
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: said
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sake
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sale
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: salt
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: same
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sand
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: save
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: seat
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: seed
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: seek
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: seem
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: seen
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: self
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sell
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: send
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sent
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sept
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: ship
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: shop
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: shot
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: show
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: shut
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sick
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: side
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sign
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: site
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: size
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: skin
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: slip
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: slow
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: snow
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: soft
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: soil
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sold
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sole
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: some
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: song
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: soon
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sort
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: soul
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: spot
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: star
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: stay
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: step
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: stop
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: such
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: suit
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: sure
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: take
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tale
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: talk
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tall
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tank
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tape
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: task
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: team
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tech
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tell
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tend
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: term
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: test
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: text
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: than
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: that
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: them
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: then
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: they
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: thin
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: this
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: thus
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: till
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: time
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tiny
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: told
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: toll
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tone
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tony
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: took
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tool
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tour
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: town
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tree
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: trip
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: true
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: tune
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: turn
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: twin
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: type
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: unit
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: upon
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: used
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: user
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: vary
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: vast
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: very
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: vice
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: view
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: vote
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wage
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wait
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wake
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: walk
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wall
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: want
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: ward
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: warm
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wash
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wave
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: ways
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: weak
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wear
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: week
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: well
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: went
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: were
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: west
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: what
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: when
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: whom
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wide
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wife
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wild
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: will
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wind
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wine
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wing
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wire
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wise
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wish
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: with
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wood
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: word
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: wore
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: work
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: yard
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: yeah
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: year
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: your
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+INFO: Valid word loaded: zero
+Mar 25, 2025 1:30:19 PM workshop06_code.App main
+SEVERE: Invalid word in data.txt: 'zone./gradlew -p app run' (must be 4 letters)
+Mar 25, 2025 1:30:32 PM workshop06_code.App main
+INFO: Valid but incorrect guess: 'aaaa'
